@@ -1,6 +1,6 @@
 # stairs
 //Please understand that i just started coding 3 days ago. I try to organize my codes as best as possible but I'm sorry if my codes are messy.
-//any advice would be greated appreciated and you can contact me at zhanrong@hotmail.co.uk :)
+//any advice would be greated appreciated and you can contact me at zhanrong@hotmail.co.uk :) :) :)
 
 package stairs;
 
